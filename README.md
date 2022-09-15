@@ -38,4 +38,3 @@ I'm an Electronics Engineer turned QA. Loving the technical parts of software te
 
 [![Sinapot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinapot)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinapot)](https://github.com/anuraghazra/github-readme-stats)
-
