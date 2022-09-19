@@ -26,7 +26,7 @@
 I'm an Electronics Engineer turned QA. Loving the technical parts of software testing.
 ## My QA values:
 
-:gem: Testing code is not production-code - Design it to be short, dead-simple, flat, and *delightful* to work with. One should look at a test and get the intent instantly.<br/>
+:gem: Testing code is not production-code - Design it to be short, dead-simple, flat, and **delightful** to work with. One should look at a test and get the intent instantly.<br/>
 :open_hands:  In **teamwork**, success is best when it's shared <br/>
 :hearts:  I'm always eager to **learn** something new: there is no end to education <br/>
 :computer:  **Code** is like humor. When you have to explain it, it’s bad.
