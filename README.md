@@ -19,7 +19,7 @@
 
 ## QA Engineer <br/>
 #### :gear: Automation:  Playwright | Selenium | Cypress | WebdriverIO | Appium <br/>
-#### :loud_sound: Languages: Javascript | C# | SQL <br/>
+#### :loud_sound: Languages: Javascript | Java | C# | SQL <br/>
 #### :infinity: Dev-Ops: Azure DevOps | Github Actions | App Center<br/>
 ####  ⚡ Fun fact: I love outdoors :palm_tree: surfing :surfer: running :running: cycling :biking_man: swimming :swimming_man:
 
