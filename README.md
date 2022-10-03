@@ -27,6 +27,7 @@
 I'm an Electronics Engineer turned QA. Loving the technical parts of software testing.
 ## My QA values:
 
+:crossed_swords: You don’t have to learn everything about most subjects—you just have to learn **enough** to be dangerous. <br/>
 :gem: Testing code is not production-code - Design it to be short, dead-simple, flat, and **delightful** to work with. <br/>
 :bookmark: One should look at a **test** and get the intent instantly.<br/>
 :open_hands:  In **teamwork**, success is best when it's shared <br/>
