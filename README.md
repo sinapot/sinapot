@@ -25,7 +25,7 @@
 #### ⚡ Fun fact: I love outdoors :palm_tree: surfing :surfer: running :running: cycling :biking_man: swimming :swimming_man:
 
 ## About me
-I'm an Electronics Engineer turned QA. Loving the technical parts of software testing.
+I'm an Electronics Engineer turned Test Automation Engineer. Loving the technical parts of software testing.
 ## My QA values:
 
 :crossed_swords: You don’t have to learn everything about most subjects—you just have to learn **enough** to be dangerous. <br/>
