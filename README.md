@@ -33,7 +33,7 @@ I'm an Electronics Engineer turned Test Automation Engineer. Loving the technica
 :bookmark: One should look at a **test** and get the intent instantly.<br/>
 :hearts:  I'm always eager to **learn** something new: there is no end to education <br/>
 :computer:  **Code** is like humor. When you have to explain it, it’s bad.<br/>
-:bulb:  No **one** write perfect software.<br/>
+:bulb:  No **One** writes perfect software.<br/>
 
 
 
