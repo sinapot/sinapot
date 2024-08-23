@@ -36,8 +36,13 @@ I'm an Electronics Engineer turned Test Automation Engineer. Loving the technica
 :bulb:  No **One** writes perfect software.<br/>
 
 
-
-
+## Five Rules of Clean Tests <br/>
+#### FIRST <br/>
+1️⃣ Fast
+2️⃣ Independent
+:Three: Repeatable
+:Four: Self-Validating
+:Five: Timely
 
 
 
