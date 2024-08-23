@@ -38,11 +38,11 @@ I'm an Electronics Engineer turned Test Automation Engineer. Loving the technica
 
 ## Five Rules of Clean Tests <br/>
 #### FIRST <br/>
-1️⃣ ####Fast - They should run quickly <br/>
-2️⃣ ####Independent - Should not depend on each other <br/>
-3️⃣ ####Repeatable - Repeatable in any environment, QA, UAT, Prod or your local <br/>
-4️⃣ ####Self-Validating - Should have boolean output<br/>
-5️⃣ ####Timely - Before production code <br/>
+1️⃣ **Fast** - They should run quickly <br/>
+2️⃣ **Independent** - Should not depend on each other <br/>
+3️⃣ **Repeatable** - Repeatable in any environment, QA, UAT, Prod or your local <br/>
+4️⃣ **Self-Validating** - Should have boolean output<br/>
+5️⃣ **Timely** - Before production code <br/>
 
 
 
