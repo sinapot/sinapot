@@ -38,11 +38,11 @@ I'm an Electronics Engineer turned Test Automation Engineer. Loving the technica
 
 ## Five Rules of Clean Tests <br/>
 #### FIRST <br/>
-1️⃣ Fast
-2️⃣ Independent
-:Three: Repeatable
-:Four: Self-Validating
-:Five: Timely
+1️⃣ Fast <br/>
+2️⃣ Independent <br/>
+:Three: Repeatable <br/>
+:Four: Self-Validating <br/>
+:Five: Timely <br/>
 
 
 
