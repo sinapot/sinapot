@@ -40,9 +40,9 @@ I'm an Electronics Engineer turned Test Automation Engineer. Loving the technica
 #### FIRST <br/>
 1️⃣ Fast <br/>
 2️⃣ Independent <br/>
-:Three: Repeatable <br/>
-:Four: Self-Validating <br/>
-:Five: Timely <br/>
+3️⃣: Repeatable <br/>
+4️⃣: Self-Validating <br/>
+5️⃣: Timely <br/>
 
 
 
